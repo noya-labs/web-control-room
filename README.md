@@ -8,6 +8,8 @@
 
 🌐 **Official website:** [webcontrolrooms.com](https://webcontrolrooms.com)
 
+[![Web Control Room dashboard showing live channels, internet radio, widgets and multiple sources](web-control-room-dashboard.png)](https://webcontrolrooms.com)
+
 ---
 
 ## What is Web Control Room?
