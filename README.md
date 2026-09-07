@@ -26,6 +26,18 @@ No installation is required for the core web experience, and you can start using
 
 ---
 
+## Live TV, IPTV & Multi-Channel Viewing
+
+If your problem is not finding one stream but **keeping several live sources visible at the same time**, WCR is designed around that workflow.
+
+Use the multi-tile dashboard to organize supported **live TV channels, IPTV-style live sources, news feeds and video streams** into one visual workspace. Tiles can be arranged and resized in Edit Mode, making WCR useful as a browser-based **multi-stream viewer, live-channel dashboard, media wall or monitoring screen**.
+
+WCR does not provide or resell an IPTV subscription. Source availability depends on the underlying provider, region, browser and stream. The purpose of WCR is to give supported sources a flexible multi-view interface.
+
+**Explore:** [Live Channels](https://webcontrolrooms.com/live-channels)
+
+---
+
 ## One Screen. Multiple Sources. Your Control Room.
 
 Web Control Room is designed for situations where one browser tab is not enough.
@@ -220,6 +232,30 @@ Keep useful media, information and monitoring sources together while working or 
 
 ---
 
+## Common Questions
+
+### Can I watch multiple live channels at once?
+
+WCR is built around a multi-tile dashboard, so supported live and video sources can be kept together in one workspace instead of separate browser tabs. Actual playback depends on each source and its provider.
+
+### Is Web Control Room an IPTV provider?
+
+No. WCR is a dashboard and multi-view interface, not an IPTV subscription seller. It organizes supported live sources and channels into a customizable control-room layout.
+
+### Can I build a video wall or monitoring wall?
+
+Yes. Moveable and resizable tiles make it possible to build layouts for multi-stream viewing, news monitoring, media monitoring and information-heavy workspaces.
+
+### Can I use WCR for multitasking?
+
+Yes. WCR is specifically useful when your workflow normally requires many browser tabs, windows or information sources to remain visible at once.
+
+### Do I need an account to try it?
+
+No. Guest access is available for trying and building a temporary control room. Signing in enables persistent account-based experiences such as saved layouts.
+
+---
+
 ## Who Is Web Control Room For?
 
 WCR can be useful for:
@@ -271,12 +307,6 @@ The result is a customizable **web dashboard**, **monitoring dashboard**, **medi
 | Security & Trust | [Security](https://webcontrolrooms.com/security) |
 | Privacy | [Privacy](https://webcontrolrooms.com/privacy) |
 | Setup Center | [Setup](https://webcontrolrooms.com/setup) |
-
----
-
-## Screenshot
-
-> A current Web Control Room product screenshot will be added here.
 
 ---
 
