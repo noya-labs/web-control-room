@@ -58,6 +58,16 @@ Arrange everything into a workspace that fits the way you monitor information.
 
 ---
 
+## Guides & Use Cases
+
+Looking for a specific workflow? These short guides explain where WCR fits and where source/provider limitations still apply:
+
+- **[IPTV Multiview](docs/iptv-multiview.md)** — organize supported live channels into a flexible multi-tile viewing workspace.
+- **[Multi-Stream Viewing](docs/multi-stream-viewing.md)** — keep several supported live streams visible without constant tab switching.
+- **[Live News Monitoring](docs/live-news-monitoring.md)** — build a browser-based news and information monitoring wall.
+
+---
+
 ## Key Features
 
 ### 📺 Live Channels
