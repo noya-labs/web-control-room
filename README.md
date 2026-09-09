@@ -128,7 +128,7 @@ Because websites use different embedding and browser security policies, website 
 
 ### 🎙️ Voice Control
 
-Control supported WCR actions using voice commands.
+Control supported WCR actions using voice commands. WCR checks predefined commands first and uses Gemini to interpret requests when no predefined command is recognized.
 
 The goal is simple: interact with your control room without having to manually click through every control.
 
@@ -160,13 +160,13 @@ Additional integrations are planned as the platform develops.
 
 ---
 
-### 🧠 AI Control — Coming Soon
+### 🧠 AI Control — Available Now
 
-Natural-language AI control is under development.
+Control your dashboard with voice or text commands. WCR first checks the request against its predefined commands. When no predefined command is recognized, Gemini is used to interpret the request.
 
-The goal is to make interacting with a complex control room as simple as describing what you want it to do.
+Gemini-assisted command handling is available today. Additional AI connection options shown in the dashboard are planned and are not yet available.
 
-**Preview:** [AI Control](https://webcontrolrooms.com/ai-control)
+**Learn more:** [AI Control](https://webcontrolrooms.com/ai-control)
 
 ---
 
